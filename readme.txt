@@ -1,0 +1,1 @@
+2018.7.17:now this is a simple blog web.
